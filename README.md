@@ -1,9 +1,9 @@
 # CSE0001: Digital Literacy Portfolio 
 
 ## 👤 Student Information
-* Name: Sayan Manna
-* Registration Number:25BAI10467 
-* Branch: B.Tech CSE (AI & ML) 
+* Name: ABHISHEK GORAI
+* Registration Number:25BCE10175
+* Branch: B.Tech CSE 
 * University: VIT Bhopal University 
 * Role: Student Digital Ambassador 
 
@@ -34,7 +34,7 @@ This project is organized into specific folders for each module as per the assig
 Created a one-page visual resource using **Canva** to define digital literacy and promote safe internet practices for first-year students.
 
 ### 🔹 Module 2: Professional Identity
-Established a technical presence on **GitHub**, LinkedIn, and Kaggle.My GitHub profile includes a customized README detailing my focus on AI & ML.
+Established a technical presence on **GitHub*, LinkedIn, and Kaggle.My GitHub profile includes a customized README detailing .
 
 ### 🔹 Module 3: Collaboration & Coding
 Completed beginner-level Python challenges on hackerRank and developed a 5-question awareness quiz using Google Forms.
